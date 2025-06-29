@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Own Files
+application-prod.properties
+application-dev.properties
